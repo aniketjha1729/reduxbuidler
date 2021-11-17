@@ -1,0 +1,22 @@
+{
+  "name": "@aniketjha1729/reduxbuilder",
+  "version": "1.1.0",
+  "description": "automation of redux boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketjha1729/reduxbuidler.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "aniketjha1729",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketjha1729/reduxbuidler/issues"
+  },
+  "homepage": "https://github.com/aniketjha1729/reduxbuidler#readme"
+}
